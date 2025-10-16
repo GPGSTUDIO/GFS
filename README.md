@@ -11,9 +11,9 @@ Example usage:
 Mode 2 for GFS_NORAM.py <DISK_OR_FILE\> for mode 1 GFS.py <DISK_OR_FILE\>
 
 Commands in filesystem:
-ls - To see files
-copy - Copy files
-copy 1 - Copy file from disk to this fs
-copy 2 - Copy file from fs to disk
-mkdir - Make new directory
-rm - Delete file or directory
+>ls - To see files
+>copy - Copy files
+>copy 1 - Copy file from disk to this fs
+>copy 2 - Copy file from fs to disk
+>mkdir - Make new directory
+>rm - Delete file or directory
